@@ -16,12 +16,12 @@ export async function getDriveFiles() {
 
   const response = await drive.files.list({
     q: '1nGDq9xCGtpqInixA4VOrZJ1msvm0n84B', // Replace 'FOLDER_ID' with the actual folder ID
-    fields: 'files(name, mimeType)', // Specify the fields you want to retrieve
+    fields: 'Name', // Specify the fields you want to retrieve
   });
 
   const files = response.data.files;
   return files;
-  
+
 }
 
 
