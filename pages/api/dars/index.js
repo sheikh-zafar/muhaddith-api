@@ -1,5 +1,5 @@
-import { darsApi } from '../../../dars-api';
+import { rootFilesAndFolders } from '../../../dars-api';
 
 export default function handler(req, res) {
-  res.status(200).json(darsApi);
+    res.status(200).json(rootFilesAndFolders);
 }
