@@ -2,6 +2,7 @@ export const rootFilesAndFolders = [
     {
         id: '1gICtNn6m6GOlVzJZJlwglA6pex2reCFW',
         name: 'At Targheeb wa At Tarheeb Munzari',
+        images: '2.png',
         children: [
             {
                 id: '1RU2IpF7zN_j3T7KXlEQUPnCET-WlAg9i',
@@ -16,6 +17,7 @@ export const rootFilesAndFolders = [
     {
         id: '1azueqYmaJAcOntjy9hxks029gnVIGyky',
         name: "Al-Arba'oona An-Nawawiyyah - Mukhtasar Dawra",
+        images: '3.png',
         children: [
             {
                 id: '1W678YjY8FfARJgX5MVgCYdPJQvYMMQDT',
@@ -62,6 +64,7 @@ export const rootFilesAndFolders = [
     {
         id: '13cjHVNjzddkrsV2Sm29R8E0pNktH9bGc',
         name: 'Qiyamah',
+        images: '17.png',
         children: [
             {
                 id: '10Scdtx1SecC2646QSJQcXdWx7Tx-wocf',
@@ -199,11 +202,13 @@ export const rootFilesAndFolders = [
     {
         id: '1adSADudgu_Ae8QTqc2M7Z4DF8wn-x_HY',
         name: 'latest_duroos',
+        images: '18.png',
         children: [],
     },
     {
         id: '15fDSK6rNln1xfP5hPi13jsP4vFsc1LwU',
         name: 'Sisters Section',
+        images: '5.png',
         children: [
             {
                 id: '1TVDbiY57pTqW3htmfBjsPC2zRPo0h2Jx',
@@ -222,6 +227,7 @@ export const rootFilesAndFolders = [
     {
         id: '1YdKkGKhR5rWL5eBWClFCEFYc7MX3yY3A',
         name: 'Aam-duroos',
+        images: '4.png',
         children: [
             {
                 id: '1kasIXFUHQVt9QRiUz36OdO2bEEkQcT9R',
@@ -468,6 +474,7 @@ export const rootFilesAndFolders = [
     {
         id: '1MxPz38wGwGKZHumOMAU6ZaJemvDG9PTn',
         name: 'Audio-Riyadh-us-saleheen',
+        images: '6.png',
         children: [
             {
                 id: '116UynxN4ZWj9tGJJMd6rK8CgMWRADO9v',
@@ -490,6 +497,7 @@ export const rootFilesAndFolders = [
     {
         id: '1Zc_fkwZOBT74_wjYolbEPPzucJHA7ewJ',
         name: 'COVID-19-LECTURES',
+        images: '7.png',
         children: [
             {
                 id: '1Wp4R1xUvBuyPNopd2wGW4M_hJwAMLP0w',
@@ -564,6 +572,7 @@ export const rootFilesAndFolders = [
     {
         id: '1baPlgO0E8m3gcApgBI8dfP5nIe7UPie9',
         name: 'mowsamiyyat',
+        images:'8.png',
         children: [
             {
                 id: '1I8-_o7livHQLtUGENyHdnRhqbPrhUOjM',
@@ -2498,6 +2507,7 @@ export const rootFilesAndFolders = [
     {
         id: '1LVbol0FZAEe8Y2efbnV9jNJLbQN95fkT',
         name: 'Isteqamat',
+        images: '9.png',
         children: [
             {
                 id: '1ENYTCgfZOOmCMrMYBPNGfltGxDORsfGr',
@@ -2532,6 +2542,7 @@ export const rootFilesAndFolders = [
     {
         id: '1-lsbdF9fKIoVkT5l2HMBv_0jsD8VoapL',
         name: 'audio-raful-maram',
+        images: '10.png',
         children: [
             {
                 id: '1EOljrZFtd8XIxvlJkFLpA0V8RspYpRMX',
@@ -2570,6 +2581,7 @@ export const rootFilesAndFolders = [
     {
         id: '1VPg32YwThKptV_jG7yX_CryiDR2DTR3d',
         name: 'Tafsir',
+        images: '11.png',
         children: [
             {
                 id: '1QDYR6uAfIt5nvBdnxzkJC670Aayr9t8K',
@@ -4135,7 +4147,8 @@ export const rootFilesAndFolders = [
     },
     {
         id: '1b_iM6DBbrbbMP7p7-KzuRVeH-wZDPwts',
-        name: 'Shrah-Usool-e-Salasa',
+        name: 'Sharh-Usool-e-Salasa',
+        images:'12.png',
         children: [
             {
                 id: '1KE1KSpec8V80M27ZkdTzLBXGKlc0kr3c',
@@ -4522,6 +4535,7 @@ export const rootFilesAndFolders = [
     {
         id: '1FHmnB17RfmCYfZdjSpuyQ6XCt1zELR-o',
         name: 'Sharh As-Sunnah',
+        images: '13.png',
         children: [
             {
                 id: '19CQPsIcvUDma-bUQqSTNfQfuql_xNXpa',
@@ -4928,6 +4942,7 @@ export const rootFilesAndFolders = [
     {
         id: '1SNvR6J81FrBQjwmWofW5U3PLeCQKEIvN',
         name: 'Shamail-mohmmadiyah',
+        images: '14.png',
         children: [
             {
                 id: '1sp6ImetkhFTMPeUyEVbZQhVazj3ZkAmO',
@@ -5290,6 +5305,7 @@ export const rootFilesAndFolders = [
     {
         id: '1dt9ClL2vhPPiz9UtfzwRyWNvFpHOj1dw',
         name: 'Bulugh Al Maram (Wed)',
+        images: '1.png',
         children: [
             {
                 id: '1IXnHgVGsOa4aRYnCcsydc9Drd-nd0_Mx',
@@ -5696,6 +5712,7 @@ export const rootFilesAndFolders = [
     {
         id: '1al-gkHcSA5yDjFUrjoXRABxoEg5v8FbF',
         name: "Jumu'ah Kutbah",
+        images: '19.png',
         children: [
             {
                 id: '1cRtqJiIwo4mfqqfzwmlvSK7xUXSnVATg',
@@ -8692,6 +8709,7 @@ export const rootFilesAndFolders = [
     {
         id: '1Fx6WbJG3y2mmkrSuKSWXJZz3FBwd80mf',
         name: 'Tadween As-Sunnah',
+        images: '15.png',
         children: [
             {
                 id: '1SuhWdAO3Y1lW19xYeajwzaGzAwbfZgSD',
@@ -8762,6 +8780,7 @@ export const rootFilesAndFolders = [
     {
         id: '1msQrFTXsWmG2M76nb373wHtJFeFgl85Y',
         name: 'Kitab At-Tawheed ',
+        images: '16.png',
         children: [
             {
                 id: '1dnmWlmHovvOoi943gtHtxFdPNRbIdzR1',
