@@ -10,6 +10,5 @@ export default function handler(req, res) {
         .filter((j) => j.name === nametwo)
         .map((c) => c.children.filter((h) => h.name === namethree))
   );
-
   res.status(200).json(children);
 }
