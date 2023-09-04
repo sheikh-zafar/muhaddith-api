@@ -6,7 +6,9 @@ export default function handler(req, res) {
   const children = rootFilesAndFolders.flatMap(
     (obj) =>
       obj.name === name &&
-      obj.children.filter((j) => j.name === nametwo).map((c) => c.children)
+      obj.children
+        .filter((j) => j.name === nametwo)
+        .map((c) => c.children.filter((h) => h.name === namethree))
   );
 
   res.status(200).json(children);
